@@ -1,0 +1,31 @@
+- image: /people/staff_andrew.jpg
+  name: Andrew van der Stock
+  title: Executive Director
+  location: Colorado, United States
+  description: The Executive Director is ultimately responsible for overseeing the administration, programs and strategic plan of the organization.
+- image: /people/staff_harold.jpg
+  name: Harold Blankenship
+  title: Director of Technology & Projects
+  location: Texas, United States
+  description: The Director of Technology & Projects nurtures, manages, facilitates, and supports the volunteer open source programs of the Foundation. Additionally the Director of Technology & Projects champions, manages, and executes the technology roadmap of the Foundation.
+- image: /people/staff_kelly2.jpg
+  name: Kelly Santalucia
+  title: Director of Events and Corporate Support
+  location: New Jersey, United States
+  description: The Director of Events and Corporate Support is responsible for planning and delivering OWASP Foundation AppSec Global Events and Training, approving and nurturing local and regional events in concert with the community, and reaching out to our tremendous corporate supporters and sponsors.
+- image: /people/staff_dawn21.jpg
+  name: Dawn Aitken
+  title: Operations Manager
+  location: Florida, United States
+  description: The Operations Manager ensures the smooth business operations of the OWASP Foundation for its community, staff, and Board. Additionally this role directly supports the executive team of the Foundation to professionally and artfully maintain, monitor, and resolve matters that impact the organization’s ability to deliver on its mission.
+- image: /people/staff_lisa2.jpg
+  name: Lisa Jones
+  title: Chapter and Membership Manager
+  location: North Carolina, United States
+  description: The Chapter and Membership Manager is a members’ advocate that professionally manages and services the chapter and membership functions of the OWASP Foundation. Additionally this role supports our global partnerships and event sponsor operations. 
+- image: /people/staff_lauren.jpg
+  name: Lauren Thomas
+  title: Event Coordinator
+  location: Florida, United States
+  description: >-
+      The Events Coordinator is responsible for planning and delivering events for our global community. This position is the go-to person for the community, staff, and vendors and will coordinate event details from a big-picture viewpoint to create the overall experiences for attendees, exhibitors, sponsors, and vendors.

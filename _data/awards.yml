@@ -1,0 +1,397 @@
+- title: WASPY
+  type: category
+  description: >-
+      Each year there are many individuals who do amazing work, dedicating countless hours to share, improve, 
+      and strengthen the OWASP mission. Some of these individuals are well known to the community while others are not.  
+      The purpose of these awards is to bring recognition to those who "FLY UNDER THE RADAR". These are the individuals 
+      who are passionate about OWASP, who contribute hours of their own free time to the organization to help improve 
+      the cyber-security world, yet seem to go unrecognized.
+- title: Distinguished Lifetime Memberships
+  type: category
+  description: >-
+      Awarded by the Board for outstanding involvement in the organization over the course of many years.
+- title: Project Person of the Year
+  type: award
+  category: WASPY
+  year: 2022
+  winners:
+    - name: Nancy Gariche
+      image: /assets/images/people/nancy_gariche_photo.jpeg
+      info:  >-
+          Nancy is a Senior Developer Advocate for the GitHub Security Lab, where she helps security researchers and developers collaborate and communicate better. In her spare time co-leads the OWASP DevSlop Project and is a member of the AWS Community Builder group. Nancy was named one of the Top 20 Women Leaders in Cyber in Canada, 2021.
+- title: Event Person of the Year
+  type: award
+  category: WASPY
+  year: 2022
+  winners:
+    - name: Izar Tarandach
+      image: /assets/images/people/izar_tarandach.jpg
+      info: >-
+          Izar Tarandach is the Principal Security Engineer at Squarespace, a published author and presenter on Threat Modeling. With past tenures in leadership security positions at Autodesk, in a major hedge fund, DellEMC, RSA, IBM and others, he was a core contributor to SAFECode and a founding contributor to the IEEE Center for Security Design. He holds a masters degree in Computer Science/Security from Boston University and has served as an instructor in Digital Forensics and in Secure Development in grad-level courses. He co-leads the development of pytm, a threat-modeling-with-code OWASP Incubator project.
+- title: Chapter Person of the Year
+  type: award
+  category: WASPY
+  year: 2022
+  winners:
+    - name: Thomas Ljungberg Kristensen 
+      image:  /assets/images/people/thomas_ljungberg_kristensen photo.jpg
+      info: >-
+          Thomas has been developing secure software since graduating with a master's degree in computer science from Aarhus University in 2006. He has created and tested software, tools and processes in and for large corporations in the finance, energy, and military sectors. Thomas currently runs his independent security consulting firm, WelcomeSecurity based in Silkeborg, Denmark, where he helps people and businesses view security as a business enabler and a value improvement instead of a cost and a pain – To welcome security in software development!
+          <br>
+          Since 2019, Thomas has been an active volunteer with the OWASP Aarhus, Denmark, chapter as co-chapter lead trying to make people aware of the excellent free resources from OWASP and providing a meeting place for people to talk about it-security and to network.
+- title: Oustanding Innovator 
+  type: award
+  category: WASPY
+  year: 2021
+  winners:
+    - name: Bjoern Kimminich
+      image: /assets/images/people/Bjoern_Kimminich.jpg
+      info: >-
+          See his interview [here](https://www.youtube.com/watch?v=CMA5lWAJI8Q)
+- title: Outstanding Community Supporter
+  type: award
+  category: WASPY
+  year: 2021
+  winners:
+    - name: Tanya Janca 
+      image: /assets/images/people/Tanya_Janca.jpg
+      info: >-
+          See interview [here](https://www.youtube.com/watch?v=dVDVcLyrnr4)
+- title: Outstanding Educator
+  type: award
+  category: WASPY
+  year: 2021
+  winners:
+    - name: Tanya Janca 
+      image: /assets/images/people/Tanya_Janca.jpg
+      info: >-
+          See interview [here](https://www.youtube.com/watch?v=dVDVcLyrnr40)
+- title: Outstanding Project - OWASP ZAP 
+  type: award
+  category: WASPY
+  year: 2021
+  winners:
+    - name: ZAP
+      image: /assets/images/logos/zap256x256.png
+      info: >-
+        See Simon (psiinon) and Rick's interview [here](https://www.youtube.com/watch?v=iz1EAwaV0gI)
+    - name: Rick Mitchell (kingthorin)
+      image: /assets/images/people/Rick_Mitchell.jpg
+      info: >-          
+          Rick's focus on Web Application Security represents more than half of his 20+ year IT career. You may know him for his work as a co-lead of the ZAP project, 
+          however Rick can also be credited for his contributions to the Open Source Security Testing Methodology Manual (OSSTMM), Web Security Testing Guide (WSTG), 
+          Vulnerable Web Applications Directory (VWAD), and OWASP community content. Rick is a security assessment and testing trainer for part of his work, a lightning talk 
+          presenter at the Ottawa OWASP chapter meetings and AppSec USA, OWASP Ottawa volunteer, and has helped with project promotion assessments during previous AppSec USA 
+          conferences. Rick enjoys helping others learn and challenge themselves, and strongly believes that together we can and do make the industry better.
+    - name: Ricardo Pereira
+      image: /assets/images/people/wasp_circle_black.png
+      info:
+- title: Best Community Supporter
+  type: award
+  category: WASPY
+  year: 2017
+  winners:
+    - name: Nicole Becher
+      image: /assets/images/people/Nicole_Becher.jpg
+      info:
+    - name: Dinis Cruz
+      image: /assets/images/people/Dinis_Cruz.jpg
+      info:
+    - name: Jeremy Long
+      image: /assets/images/people/Jeremy_Long.png
+      info:
+- title: Best Mission Outreach
+  type: award
+  category: WASPY
+  year: 2017
+  winners:
+    - name: Mark Miller
+      image: /assets/images/people/Mark_Miller.png
+      info:
+- title: Best Innovator
+  type: award
+  category: WASPY
+  year: 2017
+  winners:
+    - name: Seba Deleersnyder
+      image: /assets/images/people/Seba_Deleersnyder.png
+      info:
+- title: Open/Leading Category
+  type: award
+  category: WASPY
+  year: 2016
+  winners:
+    - name: Dinis Cruz
+      image: /assets/images/people/Dinis_Cruz.jpg
+      info:
+- title: Integrity/Learning Category
+  type: award
+  category: WASPY
+  year: 2016
+  winners:
+    - name: Eoin Keary
+      image: /assets/images/people/Eoin_Keary.jpg
+      info:
+- title: Innovation/Sharing Category
+  type: award
+  category: WASPY
+  year: 2016
+  winners:
+    - name: Owen Pendlebury
+      image: /assets/images/people/Owen_Pendlebury.jpg
+      info:
+- title: Global/Growing Category
+  type: award
+  category: WASPY
+  year: 2016
+  winners:
+    - name: Kathy Thaxton
+      image: /assets/images/people/Kathy_Thaxton.jpg
+      info:
+- title: Open/Leading Category for the European Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Eoin Keary
+      image: /assets/images/people/Eoin_Keary.jpg
+      info:
+- title: Open/Leading Category for the United States Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Jeremiah Grossman
+      image: /assets/images/people/no-person.png
+      info:
+- title: Open/Leading Category for the Latin American Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Mateo Martinez
+      image: /assets/images/people/no-person.png
+      info:
+- title: Open/Leading Category for the Caribbean Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Johanna Curiel
+      image: /assets/images/people/no-person.png
+      info:
+- title: Integrity/Learning Category for the European Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: OWASP Student Chapters Program Leaders (Antonis Manaras & Mateo Martinez)
+      image: /assets/images/people/no-person.png
+      info:
+- title: Integrity/Learning Category for the United States Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Pedro Peralta
+      image: /assets/images/people/no-person.png
+      info:
+- title: Integrity/Learning Category for the Asia/Pacific/Middle East Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: John Patrick Lita
+      image: /assets/images/people/no-person.png
+      info:
+- title: Integrity/Learning Category for the Caribbean Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Johanna Curiel
+      image: /assets/images/people/no-person.png
+      info:
+- title: Innovation/Sharing Category for the Africa Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Munir Njiru
+      image: /assets/images/people/no-person.png
+      info:
+- title: Innovation/Sharing Category for the European Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Fiona Collins
+      image: /assets/images/people/no-person.png
+      info:
+- title: Innovation/Sharing Category for the Latin American Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Diego Ademir
+      image: /assets/images/people/no-person.png
+      info:
+- title: Innovation/Sharing Category for the United States Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Jeremy Long
+      image: /assets/images/people/Jeremy_Long.png
+      info:
+- title: Global/Growing for the African Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Munir Njiru
+      image: /assets/images/people/no-person.png
+      info:
+- title: Global/Growing for the Asia/Pacific/Middle East Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: John Patrick Lita
+      image: /assets/images/people/no-person.png
+      info:
+- title: Global/Growing for the European Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Jason Alexander
+      image: /assets/images/people/no-person.png
+      info:
+- title: Global/Growing for the Latin American Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: John Vargas
+      image: /assets/images/people/no-person.png
+      info:
+- title: Global/Growing for the United States Region
+  type: award
+  category: WASPY
+  year: 2015
+  winners:
+    - name: Jerry Hoff
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best Chapter Leader
+  type: award
+  category: WASPY
+  year: 2014
+  winners:
+    - name: Japan Chapter Leaders
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best Project Leader
+  type: award
+  category: WASPY
+  year: 2014
+  winners:
+    - name: Simon Bennetts
+      image: /assets/images/people/Simon_Bennetts.jpg
+      info:
+- title: Best Mission Outreach
+  type: award
+  category: WASPY
+  year: 2014
+  winners:
+    - name: AppSecUSA 2013 Team
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best New Community Supporter
+  type: award
+  category: WASPY
+  year: 2014
+  winners:
+    - name: AppSecAPAC 2014 Team
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best Platform Supporter
+  type: award
+  category: WASPY
+  year: 2014
+  winners:
+    - name: Johanna Curiel
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best Chapter Leader
+  type: award
+  category: WASPY
+  year: 2013
+  winners:
+    - name: Tin Zaw, Richard Greenberg, Kelly Fitzgerald, Stuart Schwarz, & Edward Bonver (LA Chapter Leaders)
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best Project Leader
+  type: award
+  category: WASPY
+  year: 2013
+  winners:
+    - name: Simon Bennetts
+      image: /assets/images/people/Simon_Bennetts.jpg
+      info:
+- title: Best Community Supporter
+  type: award
+  category: WASPY
+  year: 2013
+  winners:
+    - name: Fabio Cerullo
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best Mission Outreach
+  type: award
+  category: WASPY
+  year: 2013
+  winners:
+    - name: Martin Knobloch
+      image: /assets/images/people/no-person.png
+      info:
+- title: Best Innovator
+  type: award
+  category: WASPY
+  year: 2013
+  winners:
+    - name: Abbas Naderi
+      image: /assets/images/people/no-person.png
+      info:
+- title: WASPY Award
+  type: award
+  category: WASPY
+  year: 2012
+  winners:
+    - name: Helen Gao
+      image: /assets/images/people/Helen_Gao.jpg
+      info: Helen received a certificate, a $1000 gift card, an iPad and a trophy.
+- title: OWASP Distinguished Lifetime Award
+  type: award
+  category: Distinguished Lifetime
+  year: 2021
+  winners:
+    - name: Dave Wichers
+      image: /assets/images/people/dave_wichers.jpg
+      info: >-
+        See his interview [here](https://www.youtube.com/watch?v=nM3ABhcrS7c)  
+    - name: Fiona Collins 
+      image: /assets/images/people/fiona_collins.jpg
+      info:  
+    - name: Jeff Williams 
+      image: /assets/images/people/jeff_williams.jpg
+      info:
+        See his interview [here](https://www.youtube.com/watch?v=ojJY8ysK-Tw)    
+    - name: Mark Curphey
+      image: /assets/images/people/mark_curphy_headshot.jpeg
+      info:
+    - name: Matteo Meucci
+      image: /assets/images/people/matteo_meucci.jpg
+      info:
+ 
